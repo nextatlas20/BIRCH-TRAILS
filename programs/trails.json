@@ -1,0 +1,10 @@
+[
+  {"trail_id":"TR-AL","name":" Alder Loop ","district":"North Ridge","enabled":true,"revision":1},
+  {"trail_id":"TR-BR","name":"Brook Run","district":"East Vale","enabled":true,"revision":2},
+  {"trail_id":"TR-AL","name":"Alder Loop","district":"North Ridge","enabled":true,"revision":3},
+  {"trail_id":"TR-CR","name":"Cedar Rise","district":"South Fork","enabled":false,"revision":1},
+  {"trail_id":"TR-DK","name":"Dune Knoll","district":"West Field","enabled":true,"revision":1},
+  {"trail_id":"TR-BR","name":"Brook Run","district":"East Vale","enabled":false,"revision":1},
+  {"trail_id":"TR-XX","name":"Bad|Name","district":"Nowhere","enabled":true,"revision":9},
+  {"trail_id":"TR-AL","name":"Alder Loop","district":"North Ridge","enabled":true,"revision":3}
+]

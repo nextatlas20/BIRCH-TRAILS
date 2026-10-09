@@ -1,0 +1,18 @@
+signup_id,trail_id,volunteer,start,end,role,status,revision
+SIGN-001,TR-AL,Mira Chen,08:00,10:00,lead,confirmed,1
+SIGN-002,TR-AL,Jon Bell,09:30,11:00,lead,confirmed,1
+SIGN-003,TR-AL,Mira Chen,10:00,12:00,sweep,confirmed,1
+SIGN-004,TR-BR,Mira Chen,09:00,10:30,lead,confirmed,1
+SIGN-005,TR-BR,Tessa Ray,11:00,12:30,sweep,confirmed,1
+SIGN-006,TR-DK,Jon Bell,11:00,12:00,lead,waitlist,2
+SIGN-007,TR-DK,Jon Bell,12:00,13:00,lead,confirmed,2
+SIGN-008,TR-CR,Ada Moss,08:00,09:00,lead,confirmed,1
+SIGN-009,TR-AL,Reed Fox,12:00,13:00,sweep,cancelled,3
+SIGN-010,TR-BR,Tessa Ray,10:30,11:00,lead,confirmed,1
+SIGN-011,TR-BR,Tessa Ray,13:00,14:00,lead,confirmed,1
+SIGN-012,TR-BR,Old Name,08:00,09:00,sweep,confirmed,1
+SIGN-012,TR-BR,Nora Vale,08:00,09:00,sweep,confirmed,2
+SIGN-013,TR-AL,Mira Chen,07:00,08:00,lead,confirmed,1
+SIGN-014,TR-AL,Invalid,08:00,08:00,lead,confirmed,1
+bad,TR-AL,Nope,08:00,09:00,lead,confirmed,1
+SIGN-015,TR-AL,Mira Chen,07:00,08:00,lead,confirmed,1
